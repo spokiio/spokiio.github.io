@@ -1,4 +1,3 @@
-
 `---`
 
 `layout: post`
@@ -14,6 +13,5 @@
 `categories: blog`
 
 `---`
-
 
 This is my first post in my website!
